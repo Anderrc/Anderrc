@@ -1,7 +1,7 @@
 Hi 👋 My name is Anderson Castaño
 =================================
 
-Full stack Developer
+Developer
 --------------------
 
 * 🖥️  See my portfolio at [Mi portafolio](http://anderrc.github.io/Curriculum/)
