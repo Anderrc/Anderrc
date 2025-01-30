@@ -4,7 +4,7 @@ Hi 👋 My name is Anderson Castaño
 Developer
 --------------------
 
-* 🖥️  See my curriculum at [Mi portafolio](http://anderrc.github.io/Curriculum/)
+* 🖥️  See my curriculum at [Mi portafolio](https://www.andercdev.com/)
 * ✉️  You can contact me at [andercc2880@gmail.com](mailto:andercc2880@gmail.com)
 * 🚀  I'm currently working on [Pragma](http://pragma.com.co/es)
 
